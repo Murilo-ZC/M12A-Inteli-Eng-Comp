@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728998598 source:c:\users\muril\onedrive\Área de trabalho\m12a-inteli-eng-comp\revisao\struct_em_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
